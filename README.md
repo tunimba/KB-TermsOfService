@@ -1,4 +1,3 @@
-# Terms of Service
 Effective Date: [18.05.2025]
 
 Welcome to Kids Bible! These Terms of Service ("Terms") govern your use of our application ("App"). By accessing or using the App, you agree to comply with these Terms.
